@@ -16,7 +16,7 @@ int main()
     }
     */
     const int z = 0;
-    if(z = 0)
+    if(z == 1)
         log("Hello World");
 
 
